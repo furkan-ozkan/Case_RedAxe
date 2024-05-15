@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d620c4044fbe47646a0caaf69883ddb9, type: 3}
+  m_Name: Right Back Door
+  m_EditorClassIdentifier: 
+  id: 3d4711b0-7e1b-4caa-bb5a-8fefe2ef667b
+  part_Name: Right Back Door
+  is_Effective_On_Price: 0
+  price_Discount_Effect_Min: 2
+  price_Discount_Effect_Max: 3.5
+  price_Discount_Effect_Increase: 0
+  status: 0
+  quality: 0
